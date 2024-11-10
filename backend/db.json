@@ -1,0 +1,34 @@
+{
+  "RegistroDiario": [
+    {
+      "id": "0",
+      "data": "2024-11-05 20:15:41.2",
+      "titulo": "Meu primeiro dia de diario",
+      "conteudo": "Hoje foi um dia tranquilo. Estudei e programei um pouco.",
+      "tag": {
+        "nome_tag": "Terror",
+        "descricaoTag": "Dias de terror"
+      }
+    },
+    {
+      "id": "1",
+      "data": "2024-11-09T20:28:30.065",
+      "titulo": "aaaaaaaaaa",
+      "conteudo": "adadsa",
+      "tag": {
+        "nome_tag": "adsaddd",
+        "descricaoTag": "adsadas"
+      }
+    },
+    {
+      "id": "1",
+      "data": "2024-11-09T20:34:13.221",
+      "titulo": "dadsa",
+      "conteudo": "adsdad",
+      "tag": {
+        "nome_tag": "asdasd",
+        "descricaoTag": "sdasdasd"
+      }
+    }
+  ]
+}
